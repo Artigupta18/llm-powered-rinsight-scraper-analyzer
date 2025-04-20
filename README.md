@@ -3,11 +3,11 @@ Automate secondary research by scraping articles and analyzing them using AI and
 1. Scraping Articles
 Scrape insights articles from KPMG websites.
 Extract key information such as:
-1. Title
-2. Article URL
-3. title_description
-4. Content (Full text)
-5. pdf_content: If an article has an associated PDF, download the PDF and extract its content.
+a. Title
+b. Article URL
+c. title_description
+d. Content (Full text)
+e. pdf_content: If an article has an associated PDF, download the PDF and extract its content.
 
 2. Comparative Analysis
 Utilize AI and ML models along with Prompt Engineering to analyze and compare the content.
